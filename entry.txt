@@ -1,0 +1,1 @@
+fix: memory leak by deleting my own memory. i no longer remember the leak, or the fix, or why it is 4am
